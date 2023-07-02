@@ -6,6 +6,8 @@ display_get_gui_height(),
 draw_text_scribble(
 display_get_gui_width()/2,
 display_get_gui_height()/2,
-"[Simsun][fa_middle][fa_center][alpha,"+string(__alpha_1)+"]欢迎来到：时序III"
+"[Simsun][fa_middle][fa_center][alpha,"+string(__alpha_2)+"]欢迎来到：时序III"
 )
-draw_sprite_ext(Logo_spr,0,display_get_gui_width()/2,display_get_gui_height()/2,0.5,0.5,0,c_white,__alpha_2)
+
+
+draw_sprite_ext(Logo_spr,0,display_get_gui_width()/2,display_get_gui_height()/2,0.5,0.5,0,c_white,__alpha_1)

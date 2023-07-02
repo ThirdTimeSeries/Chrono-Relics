@@ -1,0 +1,1 @@
+Anim_Create(fader, "alpha", ANIM_TWEEN.QUAD, ANIM_EASE.OUT, 1, -1, 90);
